@@ -1,0 +1,2 @@
+# CoreStanceTechProjects
+Creating Projects
